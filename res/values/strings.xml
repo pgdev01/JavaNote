@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_text">Type in</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+</resources>
